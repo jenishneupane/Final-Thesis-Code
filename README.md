@@ -1,6 +1,6 @@
-# Final-Thesis-Code of NCDs and labour force participation in Nepal
+# Final-Thesis-Code of Chronic Illness and Labour force participation in Nepal
 
-This is my codebase for my thesis on how non-communicable disease (NCD) affects labour
+This is my codebase for my thesis on how chronic illness affects labour
 force participation, using the Nepal Living Standards Survey IV (2022-23).
 
 ## Note on this repository
